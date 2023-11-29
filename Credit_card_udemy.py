@@ -2,7 +2,7 @@
 """
 Created on Wed Aug 11 18:27:26 2021
 
-@author: Jagriti
+@author: Samiran
 """
 
 """Using a dataset of of nearly 28,500 credit card transactions and
